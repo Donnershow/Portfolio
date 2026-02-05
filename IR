@@ -1,0 +1,59 @@
+Häufige Incidents
+
+Ransomware (Systemverschlüsselung zur Erpressung)
+
+Phishing (Informationsbeschaffung durch Nachrichten)
+
+Bruteforce (Testen verschiedener Möglichkeiten, meist Passwörter)
+
+Privilege Escalation (Berechtigungen erlangen)
+
+DOS/DDOS (Gigantische mengen an anfragen die das System überlasten)
+
+
+
+Kontakt Personen
+
+https://www.polizei.de/Polizei/DE/Einrichtungen/ZAC/zac_node.html 
+
+NRW LKA: +49 211 939-4040     -    cybercrime.lka@polizei.nrw.de
+
+Deutschland BKA: +49 611 55-15037
+
+Zukünftig: Einen Notfallkontakt rund um die Uhr einrichten (Firma beauftragen oder Freunde fragen, die direkte Hilfe leisten können)
+
+Warum BKA/LKA? Die Attacke stammt von einer kriminellen Person oder Organisation und könnte den Staatsschutz gefährden.
+
+Incident bemerken
+
+Commandline öffnet sich
+
+Unbekannter Prozess läuft
+
+Bedrohende oder erpresserische Mail (ACHTUNG!!! da muss man gucken ob die Person lügt)
+
+Sichtbarer Zugriff auf das System
+
+System verschlüsselt (Ransomware)
+
+Handeln
+
+Ist es ein Fehler oder ist es ein angriff?
+
+Firma informieren! (Notfall Präsenz meeting)
+
+System Isolieren!(das Spreading verhindern)
+
+Logs speichern
+
+Wie heißt der Prozess?
+
+Was passiert?
+
+Wie ist es passiert?
+
+Nötige Personen kontaktieren (BKA bei kritischem oder großflächigem Angriff, sonst LKA oder Notfallkontakt)
+
+Arbeit auf sicheren Systemen fortführen
+
+Experten das System kontrollieren lassen
